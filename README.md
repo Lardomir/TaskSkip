@@ -1,6 +1,6 @@
-# TaskSpik  
+# TaskSkip  
 
-**TaskSpik** is a powerful task management application designed to help you stay organized and motivated. Whether you're managing school assignments, work projects, or personal to-dos, TaskSpik provides an intuitive way to structure your tasks efficiently.  
+**TaskSkip** is a powerful task management application designed to help you stay organized and motivated. Whether you're managing school assignments, work projects, or personal to-dos, TaskSkip provides an intuitive way to structure your tasks efficiently.  
 
 ## 🌟 Features  
 
@@ -17,13 +17,13 @@
 - Stay on top of your schedule with automatic reminders and notifications.  
 
 ### 🎮 **Gamification to Boost Productivity**  
-- Turn productivity into a fun challenge! TaskSpik includes game-like elements to **encourage task completion**.  
+- Turn productivity into a fun challenge! TaskSkip includes game-like elements to **encourage task completion**.  
 - Earn rewards, track streaks, and stay motivated to beat procrastination.  
 
-## 🚀 Why Use TaskSpik?  
+## 🚀 Why Use TaskSkip?  
 - **Stay organized** by keeping tasks structured and easy to manage.  
 - **Boost motivation** with engaging gamification elements.  
 - **Reduce procrastination** with timely reminders and priority settings.  
 - **Improve productivity** with a system designed to keep you accountable.  
 
-Start using **TaskSpik** today and take control of your tasks like never before!  
+Start using **TaskSkip** today and take control of your tasks like never before!  
